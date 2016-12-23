@@ -1,4 +1,4 @@
-# mallador_v1
+# mallador_v2
 Genera visualizaciones horarios posibles semestre 2016-1 fcfm
 
 Instrucciones:
